@@ -15,7 +15,7 @@
 
 ### Get SESSION_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://replit.com/@KennedyProject/String-Session#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://replit.com/@VND-GROUPGROUP/VdStringSession#main.py)
 
 ### 🔎 Support Inline Search
 
